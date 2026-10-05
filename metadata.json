@@ -1,0 +1,6 @@
+{
+  "name": "PCL Season 2",
+  "description": "Premier Cricket League Season 2 - Live score calculator based on current batting playing 11, individual player statistics, real-time notifications, leaderboard, and fan community.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
